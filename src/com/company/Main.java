@@ -11,6 +11,7 @@ public class Main {
 	System.out.println("Bonjour")
         System.out.println(functionCalculs());
         System.out.print(functionCalculsExp(6));
+	System.out.println("Salut tout le monde !!! ");
     }
     public static int functionCalculs() {
         return 2;
