@@ -9,6 +9,7 @@ public class Main {
 	// write your code here
         System.out.println("Hello world");
         System.out.println("Bonjour le monde");
+	System.out.println("Bonjour")
         System.out.println(functionCalculs());
         System.out.print(functionCalculsExp(6));
     }
