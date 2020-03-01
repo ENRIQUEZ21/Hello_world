@@ -18,4 +18,3 @@ public class Main {
     public static int functionCalculsExp(double n) {
         return (int) ((Math.exp(n) * n) + (n * n * Math.getExponent(n)));
     }
-}
