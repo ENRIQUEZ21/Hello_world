@@ -11,8 +11,9 @@ public class Main {
         System.out.print(functionCalculsExp(6));
         System.out.println("Salut tout le monde !!! ");
         System.out.println("On a : 45 * 2 = " + functionCalculsMultiPar2(45));
-        System.out.println("On a aussi : 46* 2 = "+functionCalculsMultiPar2(46));
+        System.out.println("On a aussi : 46* 2 = " + functionCalculsMultiPar2(46));
         System.out.println("On essaie les branches, pas facile ...");
+        System.out.println("Qu'est-ce que je peux faire de ma vie, je ne suis pas très bon ... A méditer");
     }
 
     public static int functionCalculs() {
