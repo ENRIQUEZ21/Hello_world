@@ -11,6 +11,7 @@ public class Main {
         Heritee2Fois heritee2Fois = new Heritee2Fois();
         heritee2Fois.returnNbreTransform2();
         System.out.println("Hello world");
+        System.out.println("SALUT");
         System.out.println("Bonjour le monde");
         System.out.println("Bonjour");
         System.out.println(functionCalculs());
