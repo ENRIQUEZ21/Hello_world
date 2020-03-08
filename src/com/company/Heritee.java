@@ -11,6 +11,7 @@ public class Heritee extends Main{
     public void returnNbre() {
         nbre+=3;
         System.out.println("Bonjour "+nbre);
+        System.out.println("Salut les amis");
     }
 
 
